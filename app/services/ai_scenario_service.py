@@ -1,0 +1,1 @@
+# AI Scenario Service içeriğini almam gerekiyor
